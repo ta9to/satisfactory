@@ -1,0 +1,52 @@
+name,slug,name_jp,image,description
+Iron Ore,iron-ore,鉄鉱石,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Iron_Ore.png,"作成に使用する。
+最も重要で、基本的な資源。"
+Copper Ore,copper-ore,銅鉱石,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Copper_Ore.png,"作成に使用する。
+主に電子部品に使用される基本的な資源。"
+Limestone,limestone,石灰岩,https://static.wikia.nocookie.net/satisfactory_gamepedia_en/images/4/4e/Limestone.png,作成に使用する。主に安定した土台に使用される基本的な資源。
+Caterium Ore,caterium-ore,カテリウム鉱石,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Caterium_Ore.png,カテリウムの鉱石は製錬されてカテリウムのインゴットになる。カテリウムのインゴットは主に先進的電子機器に使用される。
+Raw Quartz,raw-quartz,未加工石英,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Raw_Quartz.png,未加工石英は石英結晶に加工して、無線技術や量子技術に利用出来る。
+Sulfur,sulfur,硫黄,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Sulfur.png,硫黄は主に火薬の材料として使われる。
+Bauxite,bauxite,ボーキサイト,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Bauxite.png,ボーキサイトは先進的な製錬プロセスを施すことでアルミのインゴットに変わる。
+Uranium,uranium,ウラン,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Uranium.png,ウランは放射性物質だ。主に原子力発電所で使用される。
+S.A.M. Ore,s.a.m-ore,S.A.M.鉱石,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/S.A.M._Ore.png,新たな可能性で光り輝いている、奇妙な異星金属。
+Crude Oil,crude-oil,原油,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Crude_Oil.png,原油は精製によって、燃料やプラスチックなど、あらゆる種類の石油製品になる。
+Water,water,水,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Water.png,水です。
+Nitrogen Gas,nitrogen-gas,窒素ガス,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Nitrogen_Gas.png,窒素は、冶金、冷却、硝酸の製造など、さまざまな用途に使われます。Massage-2(AB)bでは、地下のガス井から抽出することができます。
+
+Iron Ingot,iron-ingot,鉄のインゴット,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Iron_Ingot.png,作成に使用する。最も基本的な部品の材料になる。
+Copper Ingot,copper-ingot,銅のインゴット,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Copper_Ingot.png,作成に使用する。最も基本的な部品の材料になる。
+Steel Ingot,steel-ingot,鋼鉄のインゴット,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Steel_Ingot.png,鋼鉄のインゴットは、鉄鉱石を石炭と一緒に精錬することで作られる。建物の建設に使われてる様々な部品の材料になる。
+Caterium Ingot,caterium-ingot,カテリウムのインゴット,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Caterium_Ingot.png,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Caterium_Ingot.png,カテリウムのインゴットはカテリウムの鉱石を製錬して作られる。カテリウムのインゴットは主に先進的電子機器に使用される。
+Aluminum Ingot,aluminum-ingot,アルミのインゴット,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Aluminum_Ingot.png,アルミのインゴットはアルミ・スクラップから作られる。主に、特殊なアルミニウムベースの部品の製造に使用される。
+
+Leaves,leaves,葉,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Leaves.png,主に燃料として使用する。バイオマス・バーナーおよび車両は原動力として使用できる。
+Wood,wood,木,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Wood.png,主に燃料として使用する。バイオマス・バーナーおよび車両は原動力として使用できる。
+Flower Petals,flower-petals,花弁,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Flower_Petals.png,作成に使用する。カラフルな土着の植物の花びら。
+Mycelia,mycelia,菌糸,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Mycelia.png,作成に使用する。バイオマス・バーナーおよび車両は原動力として使用できる。
+Alien Carapace,alien-carapace,異星生物甲殻,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Alien_Carapace.png,異星生物の、分厚くて頑丈な自然の甲殻。
+Alien Organs,alien-organs,異星生物器官,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Alien_Organs.png,異星生物の器官。
+Blue Power Slug,blue-power-slug,青いパワー・スラッグ,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Green_Power_Slug.png,弱い奇妙な力を放つ、奇妙なナメクジ
+Yellow Power Slug,yellow-power-slug,黄のパワー・スラッグ,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Yellow_Power_Slug.png,奇妙な力を放つ、奇妙なナメクジ
+Purple Power Slug,purple-power-slug,紫のパワー・スラッグ,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Purple_Power_Slug.png,強い奇妙な力を放つ、奇妙なナメクジ
+
+Biomass,biomass,バイオマス,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Biomass.png,主に燃料として使用する。バイオマス・バーナーおよび車両は原動力として使用できる。バイオマスは未加工の生物由来物質よりもはるかにエネルギー効率が高い。
+Fabric,fabric,布地,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Fabric.png,装備品の作成に使用する。柔軟だが頑丈な布地。
+Solid Biofuel,solid-biofuel,固体バイオ燃料,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Solid_Biofuel.png,燃料。固体バイオマスの中で最もエネルギー効率が高い。
+
+Iron Plate,iron-plate,鉄板,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Iron_Plate.png,作成に使用する。最も基本的な部品の一つ。
+Iron Rod,iron-rod,鉄のロッド,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Iron_Rod.png,作成に使用する。最も基本的な部品の一つ。
+Wire,wire,ワイヤー,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Wire.png,作成に使用する。最も基本的な部品の一つ。
+Cable,cable,ケーブル,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Cable.png,作成に使用する。主に電線の材料となる。
+
+Black Powder,black-powder,黒色火薬,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Black_Powder.png,爆薬や弾薬などに広く一般的に使用される火薬。
+Rifle Cartridge,rifle-cartridge,ライフル弾薬,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Rifle_Cartridge.png,ライフル用の弾薬
+Nobelisk,nobelisk,ノーベリスク,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Nobelisk.png,ノーベリスク起爆装置と共に、ひび割れた巨石、植生、その他の脆い対象を爆破するために使用される。
+Gas Filter,gas-filter,ガスフィルター,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Gas_Filter.png,ガスマスクで使用され、空気中の有害物質をろ過する。
+Spiked Rebar,spiked-rebar,有刺鉄筋,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Spiked_Rebar.png,鉄筋ガン用の弾薬。
+Color Cartridge,color-cartridge,カラー弾薬,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Color_Cartridge.png,カラー・ガン用の弾薬。工場の設備や車両の色を変更するのに必要。
+Iodine Infused Filter,iodine-infused-filter,ヨウ素注入フィルター,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Iodine_Infused_Filter.png,空気中の放射性粒子を除去するために化学防護服内で使用される。
+
+Beacon,beacon,ビーコン,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Beacon.png,気になる場所をマークするために使用する。色と名前を決め、その設定でコンパスに表示される。
+Steel Pipe,steel-pipe,鋼鉄のパイプ,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Steel_Pipe.png,鋼鉄のパイプは、やや先進的な設備を作る際によく使われる。
+Rubber,rubber,ゴム,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Rubber.png,ゴムは非常に弾力があり、摩擦力が持つ素材。
