@@ -1,6 +1,16 @@
 output_1_slug,output_1_flow,input_1_slug,input_1_flow,input_2_slug,input_2_flow,input_3_slug,input_3_flow,input_4_slug,input_4_flow
 solid-biofuel,60,biomass,120
 
+iron-ingot,30,iron-ore,30
+copper-ingot,30,copper-ore,30
+steel-ingot,45,iron-ore,45,coal,45
+
 rifle-cartridge,15,beacon,3,steel-pipe,30,black-powder,30,rubber,30
 beacon,7.5,iron-plate,22.5,iron-rod,7.5,wire,112.5,cable,15
 iron-plate,20,iron-ingot,30
+iron-rod,15,iron-ingot,15
+wire,30,copper-ingot,15
+cable,30,wire,60
+steel-pipe,20,steel-ingot,30
+black-powder,7.5,coal,7.5,sulfur,15
+rubber,20,crude-oil,30
