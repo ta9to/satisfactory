@@ -15,6 +15,11 @@ Crude Oil,crude-oil,原油,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Crud
 Water,water,水,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Water.png,水です。
 Nitrogen Gas,nitrogen-gas,窒素ガス,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Nitrogen_Gas.png,窒素は、冶金、冷却、硝酸の製造など、さまざまな用途に使われます。Massage-2(AB)bでは、地下のガス井から抽出することができます。
 
+Concrete,concrete,コンクリート,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Concrete.png,建築に使用する。安定した土台に適している。
+Quartz Crystal,quartz-crystal,石英結晶,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Quartz_Crystal.png,無線技術や量子技術に使用される。
+Silica,silica,シリカ,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Silica.png,石英から抽出され、一般的に構造材料および超小型電子技術で使用される。
+Compacted Coal,compacted-coal,圧縮石炭,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Compacted_Coal.png,より燃費効率の高い石炭代替品。車両及び石炭発電機の燃料として使用可能。
+
 Iron Ingot,iron-ingot,鉄のインゴット,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Iron_Ingot.png,作成に使用する。最も基本的な部品の材料になる。
 Copper Ingot,copper-ingot,銅のインゴット,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Copper_Ingot.png,作成に使用する。最も基本的な部品の材料になる。
 Steel Ingot,steel-ingot,鋼鉄のインゴット,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Steel_Ingot.png,鋼鉄のインゴットは、鉄鉱石を石炭と一緒に精錬することで作られる。建物の建設に使われてる様々な部品の材料になる。
@@ -37,8 +42,32 @@ Solid Biofuel,solid-biofuel,固体バイオ燃料,https://cdn.wikiwiki.jp/to/w/s
 
 Iron Plate,iron-plate,鉄板,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Iron_Plate.png,作成に使用する。最も基本的な部品の一つ。
 Iron Rod,iron-rod,鉄のロッド,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Iron_Rod.png,作成に使用する。最も基本的な部品の一つ。
+Screw,screw,ネジ,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Screw.png,作成に使用する。最も基本的な部品の一つ。
+Reinforced Iron Plate,reinforced-iron-plate,強化鉄板,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Reinforced_Iron_Plate.png,作成に使用する。より頑丈で耐久性のある鉄板。
+Modular Frame,modular-frame,モジュラー・フレーム,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Modular_Frame.png,作成に使用する。多目的の建築用ブロック
+Copper Sheet,copper-sheet,銅のシート,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Copper_Sheet.png,作成に使用する。耐腐食性が高いため、主にパイプラインに使用される。
+Steel Beam,steel-beam,鋼梁,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Steel_Beam.png,鋼梁は、やや先進的な設備を作る際によく使われる。
+Steel Pipe,steel-pipe,鋼鉄のパイプ,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Steel_Pipe.png,鋼鉄のパイプは、やや先進的な設備を作る際によく使われる。
+Encased Industrial Beam,encased-industrial-beam,コンクリート被覆型鋼梁,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Encased_Industrial_Beam.png,コンクリート被覆型鋼梁はコンクリートの圧縮強度と鋼の引張強度を兼ね揃えている。主に建物を建設するための安定した基礎として使用される。
+Heavy Modular Frame,heavy-modular-frame,ヘビー・モジュラー・フレーム,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Heavy_Modular_Frame.png,より頑強な、多目的フレーム
+Alclad Aluminum Sheet,alclad-aluminum-sheet,アルクラッド・アルミシート,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Alclad_Aluminum_Sheet.png,軽量性または熱伝導効率の高さが求められる製品に主に使用される、薄くて軽く、耐久力の高いシート。
+Aluminum Casing,aluminum-casing,アルミ筐体,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Aluminum_Casing.png,アルミのインゴットから鋳造された汎用性の高い容器。
+
 Wire,wire,ワイヤー,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Wire.png,作成に使用する。最も基本的な部品の一つ。
 Cable,cable,ケーブル,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Cable.png,作成に使用する。主に電線の材料となる。
+Quickwire,quickwire,クイックワイヤー,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Quickwire.png,カテリウムは高い伝導率と腐食への耐性を持つため、小型の先進的電子機器の材料として理想的である。
+Circuit Board,circuit-board,回路基板,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Circuit_Board.png,回路基板は先進的な電子機器で、ありとあらゆる用途で使用されている。
+A.I. Limiter,a.i.-limiter,A.I.リミッター,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/A.I._Limiter.png,A.I.リミッターは超最先端電子機器で、A.I.が危険な方向に進化しないよう制御するために使われる。
+High-Speed Connector,high-speed-connector,高速コネクター,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/High-Speed_Connector.png,高速コネクターは複数のケーブルやワイヤを非常に効率的に接続する。多彩な機器を接続できるよう、標準パターンを採用している。
+
+Rotor,rotor,ローター,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Rotor.png,作成に使用する。モーターの回転部分。
+Stator,stator,固定子,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Stator.png,モーターの回転しない部分
+Motor,motor,モーター,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Motor.png,モーターは機械力を作り出し、機械や車両などを動かすのに使われる。
+Heat Sink,heat-sink,ヒートシンク,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Heat_Sink.png,熱を素早く発散するために使用する。
+Turbo Motor,turbo-motor,ターボ・モーター,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Turbo_Motor.png,ターボ・モーターは通常のモーターより複雑で、より強力。
+Battery,battery,バッテリー,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Battery.png,バッテリーは電力を溜められる。主に電源として使われる。
+Fused Modular Frame,fused-modular-frame,溶融モジュラー・フレーム,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Fused_Modular_Frame.png,耐久性に優れた窒化物硬化処理を施し、高い堅牢性と軽量化を実現したモジュラーフレーム。
+Cooling System,cooling-system,冷却システム,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Cooling_System.png,高品質な部品や建物の温度が非効率的なレベルを超えないよう冷却するための部品。
 
 Black Powder,black-powder,黒色火薬,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Black_Powder.png,爆薬や弾薬などに広く一般的に使用される火薬。
 Rifle Cartridge,rifle-cartridge,ライフル弾薬,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Rifle_Cartridge.png,ライフル用の弾薬
@@ -51,3 +80,23 @@ Iodine Infused Filter,iodine-infused-filter,ヨウ素注入フィルター,https
 Beacon,beacon,ビーコン,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Beacon.png,気になる場所をマークするために使用する。色と名前を決め、その設定でコンパスに表示される。
 Steel Pipe,steel-pipe,鋼鉄のパイプ,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Steel_Pipe.png,鋼鉄のパイプは、やや先進的な設備を作る際によく使われる。
 Rubber,rubber,ゴム,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Rubber.png,ゴムは非常に弾力があり、摩擦力が持つ素材。
+
+Crystal Oscillator,crystal-oscillator,水晶発振器,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Crystal_Oscillator.png,水晶発振器は、振動する水晶振動子の機械的な共振を利用して正確な周波数の電気信号を生成する電子発振器回路だ。
+Computer,computer,コンピューター,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Computer.png,コンピューターは複雑な論理マシンで、高度な挙動をする機械の制御に使用される。
+Supercomputer,supercomputer,スーパーコンピューター,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Supercomputer.png,スーパーコンピューターはコンピューターの次世代パージョンだ。
+Radio Control Unit,radio-control-unit,無線制御ユニット,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Radio_Control_Unit.png,無線信号を増幅し、指向性を持たせる。
+
+Aluminum Scrap,aluminum-scrap,アルミのスクラップ,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Aluminum_Scrap.png,アルミ・スクラップはアルミナから精錬された純粋なアルミニウムだ。産業用にアルミのインゴットにまで精錬することができる。
+Alumina Solution,alumina-solution,アルミナ溶液,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Alumina_Solution.png,ボーキサイトから抽出、溶解処理を行ったアルミナ。さらに純粋なアルミニウムに精錬することができる。
+Sulfuric Acid,sulfuric-acid,硫酸,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Sulfuric_Acid.png,主に鉱石から元素を抽出するために使用される液体。
+Nitric Acid,nitric-acid,硝酸,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Nitric_Acid.png,窒素ガスと水の反応によって生成される。腐食性や酸化性が高いため、精製や燃料製造のプロセスに適している。
+
+Electromagnetic Control Rod,electromagnetic-control-rod,電磁制御棒,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Electromagnetic_Control_Rod.png,制御棒は電磁気によって電力消費を調整する。
+Encased Uranium Cell,encased-uranium-cell,被覆型ウラン･セル,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Uranium_Cell.png,ウラン鉱石から製造された「ウラン・セル」。原子力発電所のウラン燃料棒の製造に使用される。注意: 軽度の放射能がある。
+Uranium Fuel Rod,uranium-fuel-rod,ウラン燃料棒,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Nuclear_Fuel_Rod.png,原子力発電所の燃料として使用される。注意: 放射性物質を含むウラン廃棄物が発生する。厳重注意: 中程度の放射性物質を含む。
+Uranium Waste,uranium-waste,ウラン廃棄物,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Nuclear_Waste.png,原子力発電所でウラン燃料棒を消費する際に発生する副産物。非核分裂性ウランを抽出することができる。取り扱いには注意が必要。注意: 非常に高い放射能を持っている。
+Non-fissile Uranium,non-fissile-uranium,非分裂性ウラン,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Non-fissile_Uranium.png,ウラン238は非核分裂性であるため、核分裂には使えない。しかし、粒子加速器を使って核分裂性のプルトニウムに変換することは可能である。注意: 軽度の放射能がある。
+Plutonium Pellet,plutonium-pellet,プルトニウム・ペレット,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Plutonium_Pellet.png,粒子加速器で非核分裂性ウランを変換して製造される。プルトニウム燃料棒の被覆型プルトニウム・セルの製造に使用される。電力使用量: 250～750MW (平均500MW)注意: 中程度の放射能がある
+Encased Plutonium Cell,encased-plutonium-cell,被覆型プルトニウム・セル,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Encased_Plutonium_Cell.png,プルトニウム・ペレットをコンクリートで封入して作られた「プルトニウム・セル」。原子力発電所のプルトニウム燃料棒の製造に使用される。注意: 中程度の放射能がある。
+Plutonium Fuel Rod,plutonium-fuel-rod,プルトニウム燃料棒,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Plutonium_Fuel_Rod.png,原子力発電所の燃料として使用されている。注意: 放射性物質を含むプルトニウム廃棄物が発生する。厳重注意: 非常に高い放射性物質を含む。
+Plutonium Waste,plutonium-waste,プルトニウム廃棄物,https://cdn.wikiwiki.jp/to/w/sf-jp/Ref_img/::ref/Plutonium_Waste.png,原子力発電所でプルトニウム燃料棒を消費する際に発生する副産物。安全な場所に保管する必要がある。取り扱いには注意が必要。厳重注意: 最高クラスの放射能がある。
